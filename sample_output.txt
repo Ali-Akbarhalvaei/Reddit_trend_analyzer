@@ -1,0 +1,17 @@
+{
+  "score": 7,
+  "explanation": "This trend has the potential to resonate with a large audience on Instagram, particularly those experiencing burnout or seeking a healthier work-life balance.  \"Quiet vacationing\" taps into current discussions around mental health, productivity, and workplace culture.  It's relatable and offers opportunities for visually engaging content, such as serene vacation photos or tips for disconnecting. The concept is easily understood and shareable, increasing its viral potential. While not inherently sensational, it aligns with a growing desire for well-being, making it likely to spread organically within relevant communities. Its potential virality could be enhanced by influencers or media outlets picking it up.",
+  "hashtags": [
+    "#quietvacationing",
+    "#worklifebalance",
+    "#mentalhealth",
+    "#vacationmode",
+    "#digitaldetox",
+    "#unplug",
+    "#travelgram",
+    "#wellbeing",
+    "#productivity",
+    "#burnout",
+    "#quietquitting"
+  ]
+}
